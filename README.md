@@ -97,7 +97,7 @@ A match penalty is applied if total matches < 40.
 ### Top 20 Player Ratings (Plotly)
 Add your exported chart here:
 
-    ![Top 20 Ratings](images/top20.png)
+    ![Top 20 Ratings](images/newplot.png)
 
 ### Player Radar Chart
 Shows weighted batting, bowling and consistency contributions.
@@ -107,7 +107,7 @@ Shows weighted batting, bowling and consistency contributions.
 ### Consistency Curve
 Match-by-match run progression illustrating consistency trends.
 
-    ![Consistency Curve](images/consistency_curve.png)
+    ![Consistency Curve](images/consis.png)
 
 ---
 
